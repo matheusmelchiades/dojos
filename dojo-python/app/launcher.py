@@ -1,7 +1,7 @@
 from flask import Flask
 from config import SERVER
 
-from app.main.route import MainComponent
+from app.main.routes import MainComponent
 
 app = Flask(__name__)
 
