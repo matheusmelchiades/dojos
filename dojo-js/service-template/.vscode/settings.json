@@ -1,0 +1,14 @@
+{
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "eslint.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
